@@ -1,3 +1,3 @@
 # DataScienceProject
-Git upload of my Stock Price prediction code for Adani ltd.
+Git upload of my project
 uploaded for Bharat Intern
